@@ -10,6 +10,7 @@
 // 18: 41
 // 
 // two strings for push..
+// two strings from 18:48 from new MacBook
 
 import UIKit
 

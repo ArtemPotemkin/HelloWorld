@@ -5,7 +5,7 @@
 // test commit from newMacbook
 // someChanges for test to Remote 
 //  Created by Артём Потёмкин on 19.05.2023.
-//
+// add text from gitHub
 
 import UIKit
 

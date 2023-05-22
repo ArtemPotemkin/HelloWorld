@@ -8,6 +8,9 @@
 // add text from gitHub
 // local commit from Mac M1
 // 18: 41
+// 
+// two strings for push..
+
 import UIKit
 
 class ViewController: UIViewController {
